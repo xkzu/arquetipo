@@ -1,0 +1,5 @@
+# Created at 2024-11-16T20:21:52.425
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Dev\Duoc\Fullstack 3\arquetipo-springboot\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

@@ -1,0 +1,7 @@
+cl\duoc\app\App.class
+cl\duoc\app\config\ConfigTemplate.class
+cl\duoc\app\service\ServiceTemplateImpl.class
+cl\duoc\app\model\ModelTemplate.class
+cl\duoc\app\service\ServiceTemplate.class
+cl\duoc\app\controller\ControllerTemplate.class
+cl\duoc\app\repository\RepositoryTemplate.class
